@@ -1,3 +1,3 @@
 # gitskills
 add local git rsp something
-remote add file
+remote add file add 1
